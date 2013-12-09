@@ -3,7 +3,7 @@
     <h1 class="modalbox-title">{{ $store['title'] }}</h1>
     <hr class="modalbox-line"/>
     <address class="modalbox-address">
-        {{ $store['address']['street'] }}, {{ $store['address']['area'] }}, {{ $store['address']['region'] }} {{ $store['address']['zip'] }}
+        {{ $store['address'] }}, {{ $store['area'] }}, {{ $store['region'] }} {{ $store['zip'] }}
     </address>
     <p class="modalbox-content">{{ $store['content'] }}</p>
 </div>
