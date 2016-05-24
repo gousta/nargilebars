@@ -11,6 +11,7 @@
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+
+Route::get('/', 'MainController@index')->name('index');
+Route::get('/discover', 'MainController@discover')->name('discover');
+Route::get('/{key}', 'MainController@storeview')->name('store.view');
