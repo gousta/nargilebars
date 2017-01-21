@@ -15,3 +15,12 @@
 Route::get('/', 'MainController@index')->name('index');
 Route::get('/discover', 'MainController@discover')->name('discover');
 Route::get('/{key}', 'MainController@storeview')->name('store.view');
+
+
+Route::group([
+    'namespace' => 'Api',
+    'prefix' => 'api/',
+    'as' => 'api.',
+], function () {
+    Route::get('store', 'StoreController@index')->name('store.index');
+});
