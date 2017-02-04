@@ -14,7 +14,7 @@
 
     function initialize() {
 
-        var p_{{ $store['key'] }} = new google.maps.LatLng({{ $store['position']['lat'] }}, {{ $store['position']['lng'] }});
+        var p_{{ $store['key'] }} = new google.maps.LatLng({{ $store['position']['latitude'] }}, {{ $store['position']['longitude'] }});
 
         var stylez = [
             {

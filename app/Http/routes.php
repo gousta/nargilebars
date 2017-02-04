@@ -23,4 +23,5 @@ Route::group([
     'as' => 'api.',
 ], function () {
     Route::get('store', 'StoreController@index')->name('store.index');
+    Route::get('bar', 'BarController@index')->name('bar.index');
 });

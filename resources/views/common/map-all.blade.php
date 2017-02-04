@@ -20,7 +20,7 @@
         var p_mapcenter = new google.maps.LatLng(37.983022, 23.720169);
 
         @foreach($stores as $store)
-            var p_{{ $store['key'] }} = new google.maps.LatLng({{ $store['position']['lat'] }}, {{ $store['position']['lng'] }});
+            var p_{{ $store['key'] }} = new google.maps.LatLng({{ $store['position']['latitude'] }}, {{ $store['position']['longitude'] }});
         @endforeach
 
         var stylez = [
