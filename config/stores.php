@@ -4,17 +4,14 @@ return [
 
     'list' => [
 
-        //----------------------------------------------------------------------
-        // Sphinx Cafe
-        //----------------------------------------------------------------------
         [
-            'key' => 'sphinxcafe',
+            'key' => 'sphinx-cafe',
             'position' => [
                 'latitude' => '38.01116',
                 'longitude' => '23.75047'
             ],
             'title' => 'Sphinx Cafe',
-            'content' => 'Ένας αραβικός παράδεισος από αρώματα και γεύσεις στην Αθήνα! Το προσωπικό του Sphinx Cafe στο Γαλάτσι είναι πάντα πρόθυμο να σας μεταφέρει με το "μαγικό του χαλί" σε εξωτικούς προορισμούς στα βάθη της Ανατολής. Ναργιλέδες, οινόμελο, ρακόμελο και πληθώρα εδεσμάτων και παραδοσιακών ροφημάτων από την Αίγυπτο, πάντα σε προσιτές για την εποχή τιμές! Σας περιμένουμε, Αγίας Γλυκερίας 20 στο Γαλάτσι.',
+            'content' => '',
             'address' => [
                 'street' => 'Αγίας Γλυκερίας 20',
                 'area' => 'Γαλάτσι',
@@ -25,11 +22,8 @@ return [
             'icon' => 'default.png'
         ],
 
-        //----------------------------------------------------------------------
-        // Xilies kai mia nyxtes
-        //----------------------------------------------------------------------
         [
-            'key' => 'xillieskmianyxtes',
+            'key' => 'xillies-kai-mia-nyxtes',
             'position' => [
                 'latitude' => '37.95303',
                 'longitude' => '23.65548'
@@ -46,9 +40,6 @@ return [
             'icon' => 'default.png'
         ],
 
-        //----------------------------------------------------------------------
-        // Cleopatra
-        //----------------------------------------------------------------------
         [
             'key' => 'cleopatra',
             'position' => [
@@ -67,11 +58,8 @@ return [
             'icon' => 'default.png'
         ],
 
-        //----------------------------------------------------------------------
-        // Siri Nargile
-        //----------------------------------------------------------------------
         [
-            'key' => 'sirinargile',
+            'key' => 'siri-nargile',
             'position' => [
                 'latitude' => '37.93026',
                 'longitude' => '23.69645'
@@ -88,11 +76,8 @@ return [
             'icon' => 'default.png'
         ],
 
-        //----------------------------------------------------------------------
-        // Cairo Coffee
-        //----------------------------------------------------------------------
         [
-            'key' => 'cairocoffee',
+            'key' => 'cairo-coffee',
             'position' => [
                 'latitude' => '37.95215',
                 'longitude' => '23.69454'
@@ -109,9 +94,6 @@ return [
             'icon' => 'default.png'
         ],
 
-        //----------------------------------------------------------------------
-        // Hannan
-        //----------------------------------------------------------------------
         [
             'key' => 'hannan',
             'position' => [
@@ -130,11 +112,8 @@ return [
             'icon' => 'default.png'
         ],
 
-        //----------------------------------------------------------------------
-        // Pyramides #1
-        //----------------------------------------------------------------------
         [
-            'key' => 'pyramides1',
+            'key' => 'pyramide-1',
             'position' => [
                 'latitude' => '37.95205',
                 'longitude' => '23.69406'
@@ -151,11 +130,8 @@ return [
             'icon' => 'default.png'
         ],
 
-        //----------------------------------------------------------------------
-        // Pyramides #2
-        //----------------------------------------------------------------------
         [
-            'key' => 'pyramides2',
+            'key' => 'pyramides-2',
             'position' => [
                 'latitude' => '37.94311',
                 'longitude' => '23.68614'
@@ -171,12 +147,27 @@ return [
             'phone' => '2109407720',
             'icon' => 'default.png'
         ],
-
-        //----------------------------------------------------------------------
-        // Blue Moon
-        //----------------------------------------------------------------------
+        
         [
-            'key' => 'bluemoon',
+            'key' => 'pyramides-3',
+            'position' => [
+                'latitude' => '37.958866',
+                'longitude' => '23.624173'
+            ],
+            'title' => 'Πυραμίδες 3',
+            'content' => '',
+            'address' => [
+                'street' => 'Θεοφράστου 68',
+                'area' => 'Κερατσίνι',
+                'region' => 'Αττική',
+                'zip' => '18756'
+            ],
+            'phone' => '2104619798',
+            'icon' => 'default.png'
+        ],
+
+        [
+            'key' => 'blue-moon',
             'position' => [
                 'latitude' => '38.01835',
                 'longitude' => '23.72868'
@@ -193,11 +184,8 @@ return [
             'icon' => 'default.png'
         ],
 
-        //----------------------------------------------------------------------
-        // Shisha Coffee
-        //----------------------------------------------------------------------
         [
-            'key' => 'shishacoffee',
+            'key' => 'shisha-coffee',
             'position' => [
                 'latitude' => '37.94671',
                 'longitude' => '23.71254'
@@ -214,11 +202,8 @@ return [
             'icon' => 'default.png'
         ],
 
-        //----------------------------------------------------------------------
-        // Hubble Bubble
-        //----------------------------------------------------------------------
         [
-            'key' => 'hubblebubble',
+            'key' => 'hubble-bubble',
             'position' => [
                 'latitude' => '37.97674',
                 'longitude' => '23.77450'
@@ -235,9 +220,6 @@ return [
             'icon' => 'default.png'
         ],
 
-        //----------------------------------------------------------------------
-        // Oinopneumata
-        //----------------------------------------------------------------------
         [
             'key' => 'oinopneumata',
             'position' => [
@@ -256,14 +238,11 @@ return [
             'icon' => 'default.png'
         ],
 
-        //----------------------------------------------------------------------
-        // Xilies kai dio nyxtes
-        //----------------------------------------------------------------------
         [
-            'key' => 'xillieskdionyxtes',
+            'key' => 'xillies-kai-dio-nyxtes',
             'position' => [
-                'latitude' => '37.97742',
-                'longitude' => '23.72408'
+                'latitude' => '37.977448',
+                'longitude' => '23.724094'
             ],
             'title' => 'Χίλιες και δύο νύχτες',
             'content' => '',
@@ -276,30 +255,12 @@ return [
             'phone' => '2103317293',
             'icon' => 'default.png'
         ],
-        
-        [
-            'key' => 'pyramides3',
-            'position' => [
-                'latitude' => '37.95886',
-                'longitude' => '23.62198'
-            ],
-            'title' => 'Πυραμίδες 3',
-            'content' => '',
-            'address' => [
-                'street' => 'Θεοφράστου 68',
-                'area' => 'Κερατσίνι',
-                'region' => 'Αττική',
-                'zip' => '187 56'
-            ],
-            'phone' => '2104619798',
-            'icon' => 'default.png'
-        ],
 
         [
-            'key' => 'royalshisha',
+            'key' => 'royal-shisha',
             'position' => [
-                'latitude' => '37.97657',
-                'longitude' => '23.77343'
+                'latitude' => '37.976646',
+                'longitude' => '23.774100'
             ],
             'title' => 'Royal Shisha',
             'content' => '',
@@ -307,17 +268,17 @@ return [
                 'street' => 'Λεωφόρος Στρατάρχου Αλεξάνδρου Παπάγου 118',
                 'area' => 'Ζωγράφου',
                 'region' => 'Αττική',
-                'zip' => '157 72'
+                'zip' => '15772'
             ],
             'phone' => '2107455645',
             'icon' => 'default.png'
         ],
 
         [
-            'key' => 'goldenhole',
+            'key' => 'golden-hole',
             'position' => [
-                'latitude' => '37.95886',
-                'longitude' => '23.62198'
+                'latitude' => '38.031727',
+                'longitude' => '23.736701'
             ],
             'title' => 'Golden Hole',
             'content' => '',
@@ -332,10 +293,10 @@ return [
         ],
 
         [
-            'key' => 'shishabyfaraon',
+            'key' => 'shisha-by-faraon',
             'position' => [
-                'latitude' => '37.95886',
-                'longitude' => '23.62198'
+                'latitude' => '37.958458',
+                'longitude' => '23.625272'
             ],
             'title' => 'Shisha By Faraon',
             'content' => '',
@@ -352,8 +313,8 @@ return [
         [
             'key' => 'nefertiti',
             'position' => [
-                'latitude' => '37.97304',
-                'longitude' => '23.65297'
+                'latitude' => '37.973045',
+                'longitude' => '23.655164'
             ],
             'title' => 'Nefertiti',
             'content' => '',
@@ -368,10 +329,10 @@ return [
         ],
 
         [
-            'key' => 'lyxnaricafe',
+            'key' => 'lyxnari-cafe',
             'position' => [
-                'latitude' => '37.97281',
-                'longitude' => '23.64789'
+                'latitude' => '37.972810',
+                'longitude' => '23.650087'
             ],
             'title' => 'Λυχνάρι Cafe',
             'content' => '',
@@ -388,8 +349,8 @@ return [
         [
             'key' => 'arodou',
             'position' => [
-                'latitude' => '37.9779603',
-                'longitude' => '23.7230692'
+                'latitude' => '37.978107',
+                'longitude' => '23.725166'
             ],
             'title' => 'Αρόδου',
             'content' => '',
@@ -406,13 +367,13 @@ return [
         [
             'key' => 'habibi',
             'position' => [
-                'latitude' => '37.935187',
-                'longitude' => '23.7094025'
+                'latitude' => '37.935174',
+                'longitude' => '23.711632'
             ],
             'title' => 'Habibi',
             'content' => '',
             'address' => [
-                'street' => 'Λεωφόρος Ελελεύθεριου Βενιζέλου 181',
+                'street' => 'Λεωφόρος Ελευθέριου Βενιζέλου 181',
                 'area' => 'Νέα Σμύρνη',
                 'region' => 'Αττική',
                 'zip' => '17123'
@@ -424,8 +385,8 @@ return [
         [
             'key' => 'sahten',
             'position' => [
-                'latitude' => '37.9549481',
-                'longitude' => '23.6400976'
+                'latitude' => '37.954944',
+                'longitude' => '23.642286'
             ],
             'title' => 'Sahten',
             'content' => '',
@@ -440,10 +401,10 @@ return [
         ],
 
         [
-            'key' => 'qassabahloungecafe',
+            'key' => 'qassabah-lounge-cafe',
             'position' => [
-                'latitude' => '37.9763562',
-                'longitude' => '23.7743643'
+                'latitude' => '37.976352',
+                'longitude' => '23.776553'
             ],
             'title' => 'Qassabah Lounge Cafe',
             'content' => '',
@@ -460,8 +421,8 @@ return [
         [
             'key' => 'anatolian-lounge-hookaholic',
             'position' => [
-                'latitude' => '37.9797223',
-                'longitude' => '23.7097713'
+                'latitude' => '37.979718',
+                'longitude' => '23.711960'
             ],
             'title' => 'Anatolian Lounge - Hookaholic',
             'content' => '',
@@ -478,8 +439,8 @@ return [
         [
             'key' => 'aroma',
             'position' => [
-                'latitude' => '37.9688451',
-                'longitude' => '23.7504676'
+                'latitude' => '37.968841',
+                'longitude' => '23.752656'
             ],
             'title' => 'Άρωμα',
             'content' => '',
@@ -496,8 +457,8 @@ return [
         [
             'key' => 'sahara',
             'position' => [
-                'latitude' => '37.951805',
-                'longitude' => '23.6939607'
+                'latitude' => '37.952025',
+                'longitude' => '23.696248'
             ],
             'title' => 'Sahara',
             'content' => '',
@@ -512,10 +473,10 @@ return [
         ],
 
         [
-            'key' => 'alfaraana',
+            'key' => 'al-faraana',
             'position' => [
-                'latitude' => '37.9484483',
-                'longitude' => '23.7339555'
+                'latitude' => '37.948444',
+                'longitude' => '23.736144'
             ],
             'title' => 'Al Faraana',
             'content' => '',
@@ -532,8 +493,8 @@ return [
         [
             'key' => 'relax-cafe',
             'position' => [
-                'latitude' => '37.9407347',
-                'longitude' => '23.6441003'
+                'latitude' => '37.940731',
+                'longitude' => '23.646289'
             ],
             'title' => 'Relax Cafe',
             'content' => '',
@@ -550,8 +511,8 @@ return [
         [
             'key' => 'golden-cafe',
             'position' => [
-                'latitude' => '37.9407347',
-                'longitude' => '23.6441003'
+                'latitude' => '38.013263',
+                'longitude' => '23.729045'
             ],
             'title' => 'Golden Cafe',
             'content' => '',
@@ -568,8 +529,8 @@ return [
         [
             'key' => 'nargile',
             'position' => [
-                'latitude' => '38.0748563',
-                'longitude' => '23.8192325'
+                'latitude' => '38.074852',
+                'longitude' => '23.821421'
             ],
             'title' => 'Nargile',
             'content' => '',
@@ -586,8 +547,8 @@ return [
         [
             'key' => 'king-of-nargile',
             'position' => [
-                'latitude' => '37.9830486',
-                'longitude' => '23.6533061'
+                'latitude' => '37.983044',
+                'longitude' => '23.655495'
             ],
             'title' => 'King of Nargile',
             'content' => '',
@@ -604,8 +565,8 @@ return [
         [
             'key' => 'pharaon-shisha-bar',
             'position' => [
-                'latitude' => '37.9322167',
-                'longitude' => '23.6950611'
+                'latitude' => '37.932500',
+                'longitude' => '23.698152'
             ],
             'title' => 'Pharaon Shisha Bar',
             'content' => '',
@@ -622,8 +583,8 @@ return [
         [
             'key' => 'minas-nargiles',
             'position' => [
-                'latitude' => '38.0117626',
-                'longitude' => '23.7023534'
+                'latitude' => '38.011758',
+                'longitude' => '23.704542'
             ],
             'title' => 'Minas Nargiles',
             'content' => '',
@@ -640,8 +601,8 @@ return [
         [
             'key' => 'alladin-nargile-cafe',
             'position' => [
-                'latitude' => '38.0117626',
-                'longitude' => '23.7023534'
+                'latitude' => '37.965017',
+                'longitude' => '23.562266'
             ],
             'title' => 'Alladin Nargile Cafe',
             'content' => '',
@@ -658,13 +619,13 @@ return [
         [
             'key' => 'al-sokareia',
             'position' => [
-                'latitude' => '37.9518581',
-                'longitude' => '23.6932279'
+                'latitude' => '37.951854',
+                'longitude' => '23.695417'
             ],
             'title' => 'Al Sokareia',
             'content' => '',
             'address' => [
-                'street' => 'Λεωφόρος Ελελεύθεριου Βενιζέλου 237',
+                'street' => 'Λεωφόρος Ελευθέριου Βενιζέλου 237',
                 'area' => 'Καλλιθέα',
                 'region' => 'Αττική',
                 'zip' => '17673'
@@ -676,8 +637,8 @@ return [
         [
             'key' => 'new-dubai-cafe',
             'position' => [
-                'latitude' => '37.9772743',
-                'longitude' => '23.7111772',
+                'latitude' => '37.977303',
+                'longitude' => '23.711652',
             ],
             'title' => 'New Dubai Cafe',
             'content' => '',
@@ -694,8 +655,8 @@ return [
         [
             'key' => 'o-nargiles-tou-ali-baba',
             'position' => [
-                'latitude' => '37.9537353',
-                'longitude' => '23.6541928',
+                'latitude' => '37.953731',
+                'longitude' => '23.656381',
             ],
             'title' => 'Ο ναργιλές του Ali Baba',
             'content' => '',
@@ -712,8 +673,8 @@ return [
         [
             'key' => 'alexandria-cafe',
             'position' => [
-                'latitude' => '37.949618',
-                'longitude' => '23.7036342',
+                'latitude' => '37.950460',
+                'longitude' => '23.702915',
             ],
             'title' => 'Alexandria Cafe',
             'content' => '',
@@ -730,8 +691,8 @@ return [
         [
             'key' => 'maya-lounge-cafe',
             'position' => [
-                'latitude' => '37.8640601',
-                'longitude' => '23.7485297',
+                'latitude' => '37.864059',
+                'longitude' => '23.749171',
             ],
             'title' => 'Maya Lounge Cafe',
             'content' => '',
@@ -748,8 +709,8 @@ return [
         [
             'key' => 'aroma-anatolis',
             'position' => [
-                'latitude' => '37.9356395',
-                'longitude' => '23.6970295',
+                'latitude' => '37.935635',
+                'longitude' => '23.699218',
             ],
             'title' => 'Άρωμα Ανατολής',
             'content' => '',
