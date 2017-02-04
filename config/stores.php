@@ -712,8 +712,8 @@ return [
         [
             'key' => 'alexandria-cafe',
             'position' => [
-                'latitude' => '37.9537353',
-                'longitude' => '23.6541928',
+                'latitude' => '37.949618',
+                'longitude' => '23.7036342',
             ],
             'title' => 'Alexandria Cafe',
             'content' => '',
@@ -730,8 +730,8 @@ return [
         [
             'key' => 'maya-lounge-cafe',
             'position' => [
-                'latitude' => '37.8640631',
-                'longitude' => '23.7469827',
+                'latitude' => '37.8640601',
+                'longitude' => '23.7485297',
             ],
             'title' => 'Maya Lounge Cafe',
             'content' => '',
