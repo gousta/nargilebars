@@ -19,7 +19,6 @@ return [
                 'zip' => '11146'
             ],
             'phone' => '2102136155',
-            'icon' => 'default.png'
         ],
 
         [
@@ -37,7 +36,6 @@ return [
                 'zip' => '18452'
             ],
             'phone' => '21041171911',
-            'icon' => 'default.png'
         ],
 
         [
@@ -55,7 +53,6 @@ return [
                 'zip' => '18120'
             ],
             'phone' => '2104955544',
-            'icon' => 'default.png'
         ],
 
         [
@@ -73,7 +70,6 @@ return [
                 'zip' => '17561'
             ],
             'phone' => '2112137597',
-            'icon' => 'default.png'
         ],
 
         [
@@ -91,7 +87,6 @@ return [
                 'zip' => '17675'
             ],
             'phone' => '2109581400',
-            'icon' => 'default.png'
         ],
 
         [
@@ -109,16 +104,15 @@ return [
                 'zip' => '18533'
             ],
             'phone' => '2104127169',
-            'icon' => 'default.png'
         ],
 
         [
-            'key' => 'pyramide-1',
+            'key' => 'pyramides-1',
             'position' => [
                 'latitude' => '37.95205',
                 'longitude' => '23.69406'
             ],
-            'title' => 'Πυραμίδες #1',
+            'title' => 'Πυραμίδες 1',
             'content' => '',
             'address' => [
                 'street' => 'Μεγαλουπόλεως 1',
@@ -127,7 +121,6 @@ return [
                 'zip' => '17675'
             ],
             'phone' => '2109480501',
-            'icon' => 'default.png'
         ],
 
         [
@@ -136,7 +129,7 @@ return [
                 'latitude' => '37.94311',
                 'longitude' => '23.68614'
             ],
-            'title' => 'Πυραμίδες #2',
+            'title' => 'Πυραμίδες 2',
             'content' => '',
             'address' => [
                 'street' => 'Πεισίστρατου 87',
@@ -145,7 +138,6 @@ return [
                 'zip' => '17674'
             ],
             'phone' => '2109407720',
-            'icon' => 'default.png'
         ],
         
         [
@@ -163,7 +155,6 @@ return [
                 'zip' => '18756'
             ],
             'phone' => '2104619798',
-            'icon' => 'default.png'
         ],
 
         [
@@ -181,7 +172,6 @@ return [
                 'zip' => '11143'
             ],
             'phone' => '',
-            'icon' => 'default.png'
         ],
 
         [
@@ -199,7 +189,6 @@ return [
                 'zip' => '17121'
             ],
             'phone' => '2109327400',
-            'icon' => 'default.png'
         ],
 
         [
@@ -217,7 +206,6 @@ return [
                 'zip' => '15773'
             ],
             'phone' => '2107706003',
-            'icon' => 'default.png'
         ],
 
         [
@@ -235,7 +223,6 @@ return [
                 'zip' => '10554'
             ],
             'phone' => '2103239370',
-            'icon' => 'default.png'
         ],
 
         [
@@ -253,7 +240,6 @@ return [
                 'zip' => '10554'
             ],
             'phone' => '2103317293',
-            'icon' => 'default.png'
         ],
 
         [
@@ -271,7 +257,6 @@ return [
                 'zip' => '15772'
             ],
             'phone' => '2107455645',
-            'icon' => 'default.png'
         ],
 
         [
@@ -289,7 +274,6 @@ return [
                 'zip' => '14343'
             ],
             'phone' => '2107455645',
-            'icon' => 'default.png'
         ],
 
         [
@@ -307,7 +291,6 @@ return [
                 'zip' => '18756'
             ],
             'phone' => '2107455645',
-            'icon' => 'default.png'
         ],
 
         [
@@ -325,7 +308,6 @@ return [
                 'zip' => '18120'
             ],
             'phone' => '2104971621',
-            'icon' => 'default.png'
         ],
 
         [
@@ -343,7 +325,6 @@ return [
                 'zip' => '18120'
             ],
             'phone' => '2104979038',
-            'icon' => 'default.png'
         ],
 
         [
@@ -361,7 +342,6 @@ return [
                 'zip' => '18120'
             ],
             'phone' => '2103216774',
-            'icon' => 'default.png'
         ],
 
         [
@@ -379,7 +359,6 @@ return [
                 'zip' => '17123'
             ],
             'phone' => '2109333213',
-            'icon' => 'default.png'
         ],
 
         [
@@ -397,7 +376,6 @@ return [
                 'zip' => '18545'
             ],
             'phone' => '2114076516',
-            'icon' => 'default.png'
         ],
 
         [
@@ -415,7 +393,6 @@ return [
                 'zip' => '15773'
             ],
             'phone' => '6907194317',
-            'icon' => 'default.png'
         ],
 
         [
@@ -433,7 +410,6 @@ return [
                 'zip' => '11854'
             ],
             'phone' => '2103464222',
-            'icon' => 'default.png'
         ],
 
         [
@@ -451,7 +427,6 @@ return [
                 'zip' => '11633'
             ],
             'phone' => '2155515690',
-            'icon' => 'default.png'
         ],
 
         [
@@ -469,7 +444,6 @@ return [
                 'zip' => '17673'
             ],
             'phone' => '2109590091',
-            'icon' => 'default.png'
         ],
 
         [
@@ -487,7 +461,6 @@ return [
                 'zip' => '17235'
             ],
             'phone' => '2109751646',
-            'icon' => 'default.png'
         ],
 
         [
@@ -505,7 +478,6 @@ return [
                 'zip' => '18535'
             ],
             'phone' => '2104296956',
-            'icon' => 'default.png'
         ],
 
         [
@@ -523,7 +495,6 @@ return [
                 'zip' => '11144'
             ],
             'phone' => '2110123008',
-            'icon' => 'default.png'
         ],
 
         [
@@ -541,7 +512,6 @@ return [
                 'zip' => '14562'
             ],
             'phone' => '2108083333',
-            'icon' => 'default.png'
         ],
 
         [
@@ -559,7 +529,6 @@ return [
                 'zip' => '18121'
             ],
             'phone' => '2110121223',
-            'icon' => 'default.png'
         ],
 
         [
@@ -577,7 +546,6 @@ return [
                 'zip' => '17561'
             ],
             'phone' => '6981996383',
-            'icon' => 'default.png'
         ],
 
         [
@@ -595,7 +563,6 @@ return [
                 'zip' => '12132'
             ],
             'phone' => '6931175664',
-            'icon' => 'default.png'
         ],
 
         [
@@ -613,7 +580,6 @@ return [
                 'zip' => '18863'
             ],
             'phone' => '2104022676',
-            'icon' => 'default.png'
         ],
 
         [
@@ -631,7 +597,6 @@ return [
                 'zip' => '17673'
             ],
             'phone' => '2109560026',
-            'icon' => 'default.png'
         ],
 
         [
@@ -649,7 +614,6 @@ return [
                 'zip' => '11845'
             ],
             'phone' => '2103464476',
-            'icon' => 'default.png'
         ],
 
         [
@@ -667,7 +631,6 @@ return [
                 'zip' => '18541'
             ],
             'phone' => '6976166794',
-            'icon' => 'default.png'
         ],
 
         [
@@ -685,7 +648,6 @@ return [
                 'zip' => '17673'
             ],
             'phone' => '2109521113',
-            'icon' => 'default.png'
         ],
 
         [
@@ -703,7 +665,6 @@ return [
                 'zip' => '16675'
             ],
             'phone' => '2108980467',
-            'icon' => 'default.png'
         ],
 
         [
@@ -721,7 +682,6 @@ return [
                 'zip' => '17564'
             ],
             'phone' => '2109404424',
-            'icon' => 'default.png'
         ],
     ]
 ];
