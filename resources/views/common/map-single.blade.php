@@ -49,7 +49,7 @@
             position: p_{{ $store['key'] }},
             map: map,
             title: '{{ $store['title'] }}',
-            icon: '/icon/{{ $store['icon'] }}'
+            icon: '/icon/default.png'
         });
 
         google.maps.event.addListener(m_{{ $store['key'] }}, 'click', function() {
