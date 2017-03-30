@@ -989,5 +989,22 @@ return [
             ],
             'phone' => '2109431213',
         ],
+
+        [
+            'key' => 'om-kalthoum',
+            'position' => [
+                'latitude' => '37.9823340',
+                'longitude' => '23.7161130',
+            ],
+            'title' => 'Om Kalthoum',
+            'content' => '',
+            'address' => [
+                'street' => 'Μεγάλου Αλεξάνδρου 85',
+                'area' => 'Αθήνα',
+                'region' => 'Αττική',
+                'zip' => '10435'
+            ],
+            'phone' => '6996681444',
+        ],
     ]
 ];
