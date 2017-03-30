@@ -1057,5 +1057,107 @@ return [
             ],
             'phone' => '',
         ],
+
+        [
+            'key' => 'the-queen-izis-cafe',
+            'position' => [
+                'latitude' => '37.9457020',
+                'longitude' => '23.7026240',
+            ],
+            'title' => 'The Queen Izis Cafe',
+            'content' => '',
+            'address' => [
+                'street' => 'Λεωφόρος Ανδρέα Συγγρού 243 και Αλικαρνασσού 6',
+                'area' => 'Νέα Σμύρνη',
+                'region' => 'Αττική',
+                'zip' => '17673'
+            ],
+            'phone' => '2109407236',
+        ],
+
+        [
+            'key' => 'sina-cafe-snack-bar',
+            'position' => [
+                'latitude' => '37.9484110',
+                'longitude' => '23.6887020',
+            ],
+            'title' => 'Sina Cafe Snack Bar',
+            'content' => '',
+            'address' => [
+                'street' => 'Λυσικράτους 102',
+                'area' => 'Καλλιθέα',
+                'region' => 'Αττική',
+                'zip' => '17675'
+            ],
+            'phone' => '2121044480',
+        ],
+
+        [
+            'key' => 'new-shisha-cafe',
+            'position' => [
+                'latitude' => '37.9534560',
+                'longitude' => '23.6563170',
+            ],
+            'title' => 'New Shisha Cafe',
+            'content' => '',
+            'address' => [
+                'street' => 'Χίου 6',
+                'area' => 'Πειραιάς',
+                'region' => 'Αττική',
+                'zip' => '18541'
+            ],
+            'phone' => '2104829569',
+        ],
+
+        [
+            'key' => 'beirut',
+            'position' => [
+                'latitude' => '37.8671630',
+                'longitude' => '23.7447440',
+            ],
+            'title' => 'Beirut',
+            'content' => '',
+            'address' => [
+                'street' => 'Αλεξάνδρου Παναγούλη 52',
+                'area' => 'Γλυφάδα',
+                'region' => 'Αττική',
+                'zip' => '16675'
+            ],
+            'phone' => '2108943169',
+        ],
+
+        [
+            'key' => 'argila-cafe',
+            'position' => [
+                'latitude' => '37.8671630',
+                'longitude' => '23.7447440',
+            ],
+            'title' => 'Argila Cafe',
+            'content' => '',
+            'address' => [
+                'street' => 'Αγωνιστών Στρατοπέδου Χαϊδαρίου 66',
+                'area' => 'Χαϊδάρι',
+                'region' => 'Αττική',
+                'zip' => '12461'
+            ],
+            'phone' => '2114058836',
+        ],
+
+        [
+            'key' => 'anatoli-cafe',
+            'position' => [
+                'latitude' => '38.0423560',
+                'longitude' => '23.6842660',
+            ],
+            'title' => 'Anatoli Cafe',
+            'content' => '',
+            'address' => [
+                'street' => 'Κάσσου 10',
+                'area' => 'Πετρούπολη',
+                'region' => 'Αττική',
+                'zip' => '13231'
+            ],
+            'phone' => '6999602728',
+        ],
     ]
 ];
