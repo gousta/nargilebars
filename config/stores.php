@@ -1006,5 +1006,56 @@ return [
             ],
             'phone' => '6996681444',
         ],
+
+        [
+            'key' => 'nomad-shisha-house',
+            'position' => [
+                'latitude' => '38.0167200',
+                'longitude' => '23.6886250',
+            ],
+            'title' => 'Nomad Shisha House',
+            'content' => '',
+            'address' => [
+                'street' => 'Αγίου Βασιλείου 51',
+                'area' => 'Περιστέρι',
+                'region' => 'Αττική',
+                'zip' => '12135'
+            ],
+            'phone' => '2105768308',
+        ],
+
+        [
+            'key' => 'lebanese-chef-restaurant',
+            'position' => [
+                'latitude' => '37.9558910',
+                'longitude' => '23.7151640',
+            ],
+            'title' => 'Lebanese Chef Restaurant',
+            'content' => '',
+            'address' => [
+                'street' => 'Λεωφόρος Ανδρέα Συγγρού 184',
+                'area' => 'Καλλιθέα',
+                'region' => 'Αττική',
+                'zip' => '17671'
+            ],
+            'phone' => '2111844606',
+        ],
+
+        [
+            'key' => 'el-basa',
+            'position' => [
+                'latitude' => '37.9910370',
+                'longitude' => '23.7269650',
+            ],
+            'title' => 'Ελ Μπάσα',
+            'content' => '',
+            'address' => [
+                'street' => 'Αχαρνών 48',
+                'area' => 'Αθήνα',
+                'region' => 'Αττική',
+                'zip' => '10433'
+            ],
+            'phone' => '',
+        ],
     ]
 ];
