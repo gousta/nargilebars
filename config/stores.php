@@ -683,5 +683,192 @@ return [
             ],
             'phone' => '2109404424',
         ],
+
+        [
+            'key' => 'bocca',
+            'position' => [
+                'latitude' => '37.9937070',
+                'longitude' => '23.7655920',
+            ],
+            'title' => 'Bocca',
+            'content' => '',
+            'address' => [
+                'street' => 'Αλέξη Παυλή',
+                'area' => 'Αθήνα',
+                'region' => 'Αττική',
+                'zip' => '11523'
+            ],
+            'phone' => '6936763453',
+        ],
+
+        [
+            'key' => 'ousies-rakomeladiko',
+            'position' => [
+                'latitude' => '37.9781620',
+                'longitude' => '23.7251550',
+            ],
+            'title' => 'Ουσίες ρακομελάδικο',
+            'content' => '',
+            'address' => [
+                'street' => 'Μιαούλη 23',
+                'area' => 'Αθήνα',
+                'region' => 'Αττική',
+                'zip' => '10554'
+            ],
+            'phone' => '2103231915',
+        ],
+
+        [
+            'key' => 'maik-cafe',
+            'position' => [
+                'latitude' => '37.9949410',
+                'longitude' => '23.7634780',
+            ],
+            'title' => 'Maik Cafe',
+            'content' => '',
+            'address' => [
+                'street' => 'Βασίλη Λογοθετίδη 15',
+                'area' => 'Αθήνα',
+                'region' => 'Αττική',
+                'zip' => '11524'
+            ],
+            'phone' => '2106994417',
+        ],
+
+        [
+            'key' => 'black-white',
+            'position' => [
+                'latitude' => '37.9949410',
+                'longitude' => '23.7634780',
+            ],
+            'title' => 'Black & White',
+            'content' => '',
+            'address' => [
+                'street' => 'Φωκίωνος Νέγρη 25 & Αγίας Ζώνης 1',
+                'area' => 'Αθήνα',
+                'region' => 'Αττική',
+                'zip' => '11361'
+            ],
+            'phone' => '2108646717',
+        ],
+
+        [
+            'key' => 'the-hookah',
+            'position' => [
+                'latitude' => '37.9818120',
+                'longitude' => '23.7691250',
+            ],
+            'title' => 'The Hookah',
+            'content' => '',
+            'address' => [
+                'street' => 'Ευδήλου 9',
+                'area' => 'Αθήνα',
+                'region' => 'Αττική',
+                'zip' => '15773'
+            ],
+            'phone' => '2107782234',
+        ],
+
+        [
+            'key' => 'pharaoh-cafe',
+            'position' => [
+                'latitude' => '38.0008150',
+                'longitude' => '23.7366460',
+            ],
+            'title' => 'Pharaoh Cafe',
+            'content' => '',
+            'address' => [
+                'street' => 'Φωκίωνος Νέγρη 30',
+                'area' => 'Αθήνα',
+                'region' => 'Αττική',
+                'zip' => '11363'
+            ],
+            'phone' => '2114010520',
+        ],
+
+        [
+            'key' => 'neilos-cafe',
+            'position' => [
+                'latitude' => '37.9921550',
+                'longitude' => '23.6794270',
+            ],
+            'title' => 'Neilos Cafe',
+            'content' => '',
+            'address' => [
+                'street' => 'Ιερά οδός 262',
+                'area' => 'Αιγάλεω',
+                'region' => 'Αττική',
+                'zip' => '12242'
+            ],
+            'phone' => '2130235805',
+        ],
+
+        [
+            'key' => 'king-cafe-bar-shisha',
+            'position' => [
+                'latitude' => '37.9756450',
+                'longitude' => '23.7176150',
+            ],
+            'title' => 'King Cafe Bar Shisha',
+            'content' => '',
+            'address' => [
+                'street' => 'Ηρακλειδών 30',
+                'area' => 'Αθήνα',
+                'region' => 'Αττική',
+                'zip' => '11851'
+            ],
+            'phone' => '2111844900',
+        ],
+
+        [
+            'key' => 'to-parko-twn-oneirwn',
+            'position' => [
+                'latitude' => '37.9611710',
+                'longitude' => '23.7067050',
+            ],
+            'title' => 'Το πάρκο των Ονείρων',
+            'content' => '',
+            'address' => [
+                'street' => 'Χαροκόπου 114 & Σαπφούς 38',
+                'area' => 'Καλλιθέα',
+                'region' => 'Αττική',
+                'zip' => '17676'
+            ],
+            'phone' => '2109525005',
+        ],
+
+        [
+            'key' => 'guzelin',
+            'position' => [
+                'latitude' => '37.9657840',
+                'longitude' => '23.7257440',
+            ],
+            'title' => 'Guzelin',
+            'content' => '',
+            'address' => [
+                'street' => 'Δράκου 16',
+                'area' => 'Αθήνα',
+                'region' => 'Αττική',
+                'zip' => '11742'
+            ],
+            'phone' => '2109216526',
+        ],
+
+        [
+            'key' => 'cafe-ne',
+            'position' => [
+                'latitude' => '37.9131680',
+                'longitude' => '23.7125350',
+            ],
+            'title' => 'Cafe Ne',
+            'content' => '',
+            'address' => [
+                'street' => 'Παλαμηδίου 4',
+                'area' => 'Άλιμος',
+                'region' => 'Αττική',
+                'zip' => '17455'
+            ],
+            'phone' => '2109884714',
+        ],
     ]
 ];
