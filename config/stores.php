@@ -557,8 +557,8 @@ return [
             'title' => 'Minas Nargiles',
             'content' => '',
             'address' => [
-                'street' => '',
-                'area' => 'Παρασκευπούλου 44',
+                'street' => 'Παρασκευπούλου 44',
+                'area' => '',
                 'region' => 'Αττική',
                 'zip' => '12132'
             ],
@@ -869,6 +869,125 @@ return [
                 'zip' => '17455'
             ],
             'phone' => '2109884714',
+        ],
+
+        [
+            'key' => 'amuzik-cafe-bar',
+            'position' => [
+                'latitude' => '38.0475380',
+                'longitude' => '23.7658820',
+            ],
+            'title' => 'Amuzik Cafe Bar',
+            'content' => '',
+            'address' => [
+                'street' => 'Φιλλύρων 2 και Πευκών 8',
+                'area' => 'Νέο Ηράκλειο',
+                'region' => 'Αττική',
+                'zip' => '14122'
+            ],
+            'phone' => '2102832366',
+        ],
+
+        [
+            'key' => 'aroma',
+            'position' => [
+                'latitude' => '37.9748160',
+                'longitude' => '23.7658530',
+            ],
+            'title' => 'Άρωμα',
+            'content' => '',
+            'address' => [
+                'street' => 'Γρηγορίου Αυξεντίου 71',
+                'area' => 'Ζωγράφου',
+                'region' => 'Αττική',
+                'zip' => '15771'
+            ],
+            'phone' => '2107795011',
+        ],
+
+        [
+            'key' => 'bertheway',
+            'position' => [
+                'latitude' => '38.0114980',
+                'longitude' => '23.7277810',
+            ],
+            'title' => 'Bertheway',
+            'content' => '',
+            'address' => [
+                'street' => 'Ναυάρχου Βότση 72-74',
+                'area' => 'Αθήνα',
+                'region' => 'Αττική',
+                'zip' => '10445'
+            ],
+            'phone' => '2108547997',
+        ],
+
+        [
+            'key' => 'nargiles-mpournazi',
+            'position' => [
+                'latitude' => '38.0116080',
+                'longitude' => '23.7059600',
+            ],
+            'title' => 'Ναργιλές Μπουρνάζι',
+            'content' => '',
+            'address' => [
+                'street' => 'Τεπελενίου 3',
+                'area' => 'Περιστέρι',
+                'region' => 'Αττική',
+                'zip' => '12132'
+            ],
+            'phone' => '2155158454',
+        ],
+
+        [
+            'key' => 'comfuzio',
+            'position' => [
+                'latitude' => '37.9656530',
+                'longitude' => '23.7255400',
+            ],
+            'title' => 'Comfuzio',
+            'content' => '',
+            'address' => [
+                'street' => 'Δράκου 19',
+                'area' => 'Αθήνα',
+                'region' => 'Αττική',
+                'zip' => '11742'
+            ],
+            'phone' => '2117156779',
+        ],
+
+        [
+            'key' => 'layalina-Lialina-cafe',
+            'position' => [
+                'latitude' => '37.9838570',
+                'longitude' => '23.7221900',
+            ],
+            'title' => 'Layalina-Lialina Cafe',
+            'content' => '',
+            'address' => [
+                'street' => 'Λεωνίδου 5',
+                'area' => 'Αθήνα',
+                'region' => 'Αττική',
+                'zip' => '10437'
+            ],
+            'phone' => '6938888323',
+        ],
+
+        [
+            'key' => 'kan-zaman',
+            'position' => [
+                'latitude' => '37.9338730',
+                'longitude' => '23.6991110',
+            ],
+            'title' => 'Kan zaman',
+            'content' => '',
+            'address' => [
+                'street' => 'Συνταγματάρχου Ζησιμοπούλου 82',
+                'area' => 'Παλαιό Φάληρο',
+                'region' => 'Αττική',
+                'zip' => '17564'
+            ],
+            'phone' => '2109431213',
         ],
     ]
 ];
