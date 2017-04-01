@@ -413,15 +413,15 @@ return [
         ],
 
         [
-            'key' => 'aroma',
+            'key' => 'aroma-argile',
             'position' => [
                 'latitude' => '37.968841',
                 'longitude' => '23.752656'
             ],
-            'title' => 'Άρωμα',
+            'title' => 'Aroma Argile',
             'content' => '',
             'address' => [
-                'street' => 'Υμητού 67',
+                'street' => 'Υμηττού 67',
                 'area' => 'Αθήνα',
                 'region' => 'Αττική',
                 'zip' => '11633'
@@ -1158,6 +1158,23 @@ return [
                 'zip' => '13231'
             ],
             'phone' => '6999602728',
+        ],
+
+        [
+            'key' => 'massaya-cafe-bar',
+            'position' => [
+                'latitude' => '38.0229940',
+                'longitude' => '23.79899000',
+            ],
+            'title' => 'Massaya Cafe Bar',
+            'content' => 'Λιβανέζικη κουζίνα με ναργιλεδες και ποτό... ανατολίτικες γεύσεις.',
+            'address' => [
+                'street' => 'Κολοκοτρώνη 10',
+                'area' => 'Χαλάνδρι',
+                'region' => 'Αττική',
+                'zip' => '15233'
+            ],
+            'phone' => '2106828155',
         ],
     ]
 ];
